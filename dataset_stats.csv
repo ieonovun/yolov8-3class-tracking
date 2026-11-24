@@ -1,0 +1,5 @@
+split,images,hand_cream,hand_grip,lip_balm
+train,94,37,29,28
+valid,27,9,10,8
+test,13,5,3,5
+total,134,51,42,41

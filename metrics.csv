@@ -1,0 +1,9 @@
+split,class,P,R,mAP50,mAP50-95
+val,all,0.978,0.995,0.995,0.962
+val,hand_cream,0.965,1.0,0.995,0.979
+val,hand_grip,0.97,1.0,0.995,0.995
+val,lip_balm,1.0,0.986,0.995,0.912
+test,all,0.941,1.0,0.995,0.918
+test,hand_cream,0.922,1.0,0.995,0.995
+test,hand_grip,0.907,1.0,0.995,0.995
+test,lip_balm,0.996,1.0,0.995,0.763

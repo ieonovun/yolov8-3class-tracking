@@ -1,0 +1,15 @@
+train: train/images
+val: valid/images
+test: test/images
+nc: 3
+names:
+- hand_cream
+- hand_grip
+- lip_balm
+roboflow:
+  workspace: yuns-workspace-6pmgc
+  project: hw2-5uea5
+  version: 1
+  license: Private
+  url: https://app.roboflow.com/yuns-workspace-6pmgc/hw2-5uea5/1
+path: /home/claude/hw2_real/dataset
